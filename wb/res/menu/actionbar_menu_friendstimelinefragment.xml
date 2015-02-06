@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/write_weibo"
+        android:icon="?write_weibo"
+        android:title="@string/write_weibo"
+        android:showAsAction="always"/>
+
+
+    <item
+    android:id="@+id/switch_theme"
+    android:title="@string/switch_to_another_theme"
+    android:showAsAction="never"/>
+    <item
+        android:id="@+id/yellow1"
+        android:title="萌萌粉"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/yellow2"
+        android:title="纯纯绿"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/yellow3"
+        android:title="玫瑰红"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/yellow4"
+        android:title="天空蓝"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/yellow5"
+        android:title="小灰灰"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/yellow6"
+        android:title="樱桃红"
+        android:showAsAction="never"/>
+
+
+
+
+</menu>
